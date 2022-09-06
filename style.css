@@ -1,1 +1,44 @@
+html, body {
+  height: auto;
+  width: auto;
+}
 
+body {
+  background-color: #7bdbc3;
+  border-top: 3px solid violet;
+  border-bottom: 3px solid violet;
+  border-left: 3px solid violet;
+  border-right: 3px solid violet;
+  
+}
+
+
+#name {
+  font-family: Lucida Bright, Rockwell;
+  text-shadow: yellow 1px 1px 10px;
+  text-align: center;
+  color: blue;
+  background: url('images/bordergif.gif');
+  border-top: 2px solid violet;
+  border-bottom: 2px solid violet;
+  border-left: 2px solid violet;
+  border-right: 2px solid violet;
+}
+
+#thingsaboume {
+  font-family: Rockwell;
+  text-align: center;
+  font-size: 30px;
+}
+
+.socialmedia {
+  font-family: Comic Sans MS;
+  text-align: center;
+  border-top: 4px solid violet;
+  border-bottom: 4px solid violet;
+}
+
+#left {
+  height: auto;
+  width: auto;
+}
